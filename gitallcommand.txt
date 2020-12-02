@@ -1,0 +1,20 @@
+    1  git status
+    2  mkdir project
+    3  cd project/
+    4  git status
+    5  git init
+    6  git status
+    7  history
+    8  touch calc.py
+    9  touch auth
+   10  touch DS_Store
+   11  git status
+   12  history
+   13  ls
+   14  pwd
+   15  exit
+   16  yum install git
+   17  git --version
+   18  hostname
+   19  cd project/
+   20  history > gitallcommand.txt
